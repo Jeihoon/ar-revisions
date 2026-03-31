@@ -92,4 +92,4 @@ Licensed under the GPL2 license.
 ## 👤 Author
 
 Amin Rahnama  
-Website: [https://mypixellab.com](https://mypixellab.com)
+Website: https://mypixellab.com
